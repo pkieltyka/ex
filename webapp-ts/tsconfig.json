@@ -1,0 +1,37 @@
+{
+  "version": "2.9.2",
+
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["es2015", "dom"],
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "baseUrl": ".",
+
+    "allowSyntheticDefaultImports": false,
+    "downlevelIteration": true,
+    "importHelpers": true,
+    "removeComments": false,
+
+    "strictNullChecks": true,
+    "noImplicitUseStrict": true,
+    "noImplicitAny": false,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedParameters": false,
+
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": false,
+    "checkJs": false,
+
+    "plugins": []
+  },
+
+  "include": [
+    "src/**/*.ts"
+  ]
+
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nodeapp-js",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "ethers": "/Users/peter/Dev/other/ethers.js"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "nodeapp-ts",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "ethers": "/Users/peter/Dev/other/ethers.js"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}
